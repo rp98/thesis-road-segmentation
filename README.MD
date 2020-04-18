@@ -108,5 +108,4 @@ Options:
     --disable_gpu DISABLE_GPU, Disable predict by GPU
 ```
 
-#### Running at google colabotory - GPU 4free
-Open this [link](https://colab.research.google.com/drive/1bwYKqgZIKlMRuTqD0HdU3DeHJzH9xwe4)
+
